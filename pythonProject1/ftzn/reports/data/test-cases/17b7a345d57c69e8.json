@@ -1,0 +1,96 @@
+{
+  "uid" : "17b7a345d57c69e8",
+  "name" : "入场接口用例",
+  "fullName" : "script.test_jinchang.TestApi#test_in",
+  "historyId" : "0b2d7775b327e31ff152483c3ac9357a",
+  "time" : {
+    "start" : 1651911171832,
+    "stop" : 1651911172960,
+    "duration" : 1128
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ {
+    "name" : "login",
+    "time" : {
+      "start" : 1651910953750,
+      "stop" : 1651910958253,
+      "duration" : 4503
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "afterStages" : [ {
+    "name" : "login::0",
+    "time" : {
+      "start" : 1651913095184,
+      "stop" : 1651913095184,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "入场"
+  }, {
+    "name" : "parentSuite",
+    "value" : "script"
+  }, {
+    "name" : "suite",
+    "value" : "test_jinchang"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestApi"
+  }, {
+    "name" : "host",
+    "value" : "Windows-2020VKO"
+  }, {
+    "name" : "thread",
+    "value" : "7264-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "script.test_jinchang"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "carnumber",
+    "value" : "'津RFZSUWY\n'"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "17b7a345d57c69e8.json",
+  "parameterValues" : [ "'津RFZSUWY\n'" ]
+}

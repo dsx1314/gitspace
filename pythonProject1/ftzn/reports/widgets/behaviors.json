@@ -1,0 +1,15 @@
+{
+  "total" : 1,
+  "items" : [ {
+    "uid" : "0207e85ae6e4da13f6ad95f61cc8c428",
+    "name" : "入场",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 34,
+      "skipped" : 0,
+      "passed" : 966,
+      "unknown" : 0,
+      "total" : 1000
+    }
+  } ]
+}

@@ -1,0 +1,96 @@
+{
+  "uid" : "2e46af47cb0967af",
+  "name" : "入场接口用例",
+  "fullName" : "script.test_jinchang.TestApi#test_in",
+  "historyId" : "57f7a823f7a3dd756cdd86c4f35b3899",
+  "time" : {
+    "start" : 1651911588962,
+    "stop" : 1651911590044,
+    "duration" : 1082
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ {
+    "name" : "login",
+    "time" : {
+      "start" : 1651910953750,
+      "stop" : 1651910958253,
+      "duration" : 4503
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "afterStages" : [ {
+    "name" : "login::0",
+    "time" : {
+      "start" : 1651913095184,
+      "stop" : 1651913095184,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "入场"
+  }, {
+    "name" : "parentSuite",
+    "value" : "script"
+  }, {
+    "name" : "suite",
+    "value" : "test_jinchang"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestApi"
+  }, {
+    "name" : "host",
+    "value" : "Windows-2020VKO"
+  }, {
+    "name" : "thread",
+    "value" : "7264-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "script.test_jinchang"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "carnumber",
+    "value" : "'渝S448MVL\n'"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2e46af47cb0967af.json",
+  "parameterValues" : [ "'渝S448MVL\n'" ]
+}

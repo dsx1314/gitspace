@@ -1,0 +1,96 @@
+{
+  "uid" : "20ecb2586bfae6ae",
+  "name" : "入场接口用例",
+  "fullName" : "script.test_jinchang.TestApi#test_in",
+  "historyId" : "eb999d88b0776dc114f62d86f93d3c87",
+  "time" : {
+    "start" : 1651912933962,
+    "stop" : 1651912935097,
+    "duration" : 1135
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ {
+    "name" : "login",
+    "time" : {
+      "start" : 1651910953750,
+      "stop" : 1651910958253,
+      "duration" : 4503
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "afterStages" : [ {
+    "name" : "login::0",
+    "time" : {
+      "start" : 1651913095184,
+      "stop" : 1651913095184,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "入场"
+  }, {
+    "name" : "parentSuite",
+    "value" : "script"
+  }, {
+    "name" : "suite",
+    "value" : "test_jinchang"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestApi"
+  }, {
+    "name" : "host",
+    "value" : "Windows-2020VKO"
+  }, {
+    "name" : "thread",
+    "value" : "7264-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "script.test_jinchang"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "carnumber",
+    "value" : "'沪K3KHEH\n'"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "20ecb2586bfae6ae.json",
+  "parameterValues" : [ "'沪K3KHEH\n'" ]
+}

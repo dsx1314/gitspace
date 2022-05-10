@@ -1,0 +1,723 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "requests.exceptions.ConnectionError: HTTPSConnectionPool(host='fapi.appykt.com', port=443): Max retries exceeded with url: /parking-monitor/monitor/operatorcario (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002A8D070D470>: Failed to establish a new connection: [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。'))",
+      "children" : [ {
+        "name" : "入场接口用例",
+        "uid" : "2b5c6a25ab8b9d32",
+        "parentUid" : "02ce45bf0faf7fedfb19bdfbbf16f47c",
+        "status" : "broken",
+        "time" : {
+          "start" : 1651911008409,
+          "stop" : 1651911029417,
+          "duration" : 21008
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "'渝H5DBYGM\n'" ]
+      } ],
+      "uid" : "02ce45bf0faf7fedfb19bdfbbf16f47c"
+    }, {
+      "name" : "requests.exceptions.ConnectionError: HTTPSConnectionPool(host='fapi.appykt.com', port=443): Max retries exceeded with url: /parking-monitor/monitor/operatorcario (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002A8D00F1860>: Failed to establish a new connection: [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。'))",
+      "children" : [ {
+        "name" : "入场接口用例",
+        "uid" : "3e330be3020938bb",
+        "parentUid" : "fd3d64e3d1304e82e0ffa42775589233",
+        "status" : "broken",
+        "time" : {
+          "start" : 1651911029558,
+          "stop" : 1651911050561,
+          "duration" : 21003
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "'豫Y5L72R\n'" ]
+      } ],
+      "uid" : "fd3d64e3d1304e82e0ffa42775589233"
+    }, {
+      "name" : "requests.exceptions.ConnectionError: HTTPSConnectionPool(host='fapi.appykt.com', port=443): Max retries exceeded with url: /parking-monitor/monitor/operatorcario (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002A8D011BEB8>: Failed to establish a new connection: [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。'))",
+      "children" : [ {
+        "name" : "入场接口用例",
+        "uid" : "659c9c72bae879f2",
+        "parentUid" : "cb83daf22542622ba9616a505ab254ad",
+        "status" : "broken",
+        "time" : {
+          "start" : 1651911066543,
+          "stop" : 1651911087552,
+          "duration" : 21009
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "'琼BUG1EMQ\n'" ]
+      } ],
+      "uid" : "cb83daf22542622ba9616a505ab254ad"
+    }, {
+      "name" : "requests.exceptions.ConnectionError: HTTPSConnectionPool(host='fapi.appykt.com', port=443): Max retries exceeded with url: /parking-monitor/monitor/operatorcario (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002A8D0584160>: Failed to establish a new connection: [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。'))",
+      "children" : [ {
+        "name" : "入场接口用例",
+        "uid" : "e8382a758969ab04",
+        "parentUid" : "a9d1b566e767b20052a36e4d0fff018f",
+        "status" : "broken",
+        "time" : {
+          "start" : 1651911094316,
+          "stop" : 1651911115323,
+          "duration" : 21007
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "'豫TFRTD3J\n'" ]
+      } ],
+      "uid" : "a9d1b566e767b20052a36e4d0fff018f"
+    }, {
+      "name" : "requests.exceptions.ConnectionError: HTTPSConnectionPool(host='fapi.appykt.com', port=443): Max retries exceeded with url: /parking-monitor/monitor/operatorcario (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002A8D17AE4A8>: Failed to establish a new connection: [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。'))",
+      "children" : [ {
+        "name" : "入场接口用例",
+        "uid" : "a5423f0b6328b825",
+        "parentUid" : "45345b00501e0a23d57adb58bcb00cbc",
+        "status" : "broken",
+        "time" : {
+          "start" : 1651911190520,
+          "stop" : 1651911211527,
+          "duration" : 21007
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "'闽QQ82JKA\n'" ]
+      } ],
+      "uid" : "45345b00501e0a23d57adb58bcb00cbc"
+    }, {
+      "name" : "requests.exceptions.ConnectionError: HTTPSConnectionPool(host='fapi.appykt.com', port=443): Max retries exceeded with url: /parking-monitor/monitor/operatorcario (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002A8D18C8A90>: Failed to establish a new connection: [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。'))",
+      "children" : [ {
+        "name" : "入场接口用例",
+        "uid" : "74310690d987942b",
+        "parentUid" : "9d94379e21b4fb16cae1ae31b37e599d",
+        "status" : "broken",
+        "time" : {
+          "start" : 1651911211607,
+          "stop" : 1651911232615,
+          "duration" : 21008
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "'新XUWNYA\n'" ]
+      } ],
+      "uid" : "9d94379e21b4fb16cae1ae31b37e599d"
+    }, {
+      "name" : "requests.exceptions.ConnectionError: HTTPSConnectionPool(host='fapi.appykt.com', port=443): Max retries exceeded with url: /parking-monitor/monitor/operatorcario (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002A8D05A7860>: Failed to establish a new connection: [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。'))",
+      "children" : [ {
+        "name" : "入场接口用例",
+        "uid" : "a371d2aaed987abf",
+        "parentUid" : "5aef3b6f0ea82dc88ae36f953ccc4b2b",
+        "status" : "broken",
+        "time" : {
+          "start" : 1651911268606,
+          "stop" : 1651911289612,
+          "duration" : 21006
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "'吉PLJKDJM\n'" ]
+      } ],
+      "uid" : "5aef3b6f0ea82dc88ae36f953ccc4b2b"
+    }, {
+      "name" : "requests.exceptions.ConnectionError: HTTPSConnectionPool(host='fapi.appykt.com', port=443): Max retries exceeded with url: /parking-monitor/monitor/operatorcario (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002A8D1801048>: Failed to establish a new connection: [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。'))",
+      "children" : [ {
+        "name" : "入场接口用例",
+        "uid" : "42b6d0d1f5d1694b",
+        "parentUid" : "4e6150f1a882010fa68a736e6facadad",
+        "status" : "broken",
+        "time" : {
+          "start" : 1651911296521,
+          "stop" : 1651911317529,
+          "duration" : 21008
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "'云V0FHCHT\n'" ]
+      } ],
+      "uid" : "4e6150f1a882010fa68a736e6facadad"
+    }, {
+      "name" : "requests.exceptions.ConnectionError: HTTPSConnectionPool(host='fapi.appykt.com', port=443): Max retries exceeded with url: /parking-monitor/monitor/operatorcario (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002A8D00DFB38>: Failed to establish a new connection: [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。'))",
+      "children" : [ {
+        "name" : "入场接口用例",
+        "uid" : "e328323e21de1812",
+        "parentUid" : "949936706468dbeb1db4d200a3bec1ca",
+        "status" : "broken",
+        "time" : {
+          "start" : 1651911348436,
+          "stop" : 1651911369443,
+          "duration" : 21007
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "'贵F1U18D\n'" ]
+      } ],
+      "uid" : "949936706468dbeb1db4d200a3bec1ca"
+    }, {
+      "name" : "requests.exceptions.ConnectionError: HTTPSConnectionPool(host='fapi.appykt.com', port=443): Max retries exceeded with url: /parking-monitor/monitor/operatorcario (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002A8D18F5198>: Failed to establish a new connection: [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。'))",
+      "children" : [ {
+        "name" : "入场接口用例",
+        "uid" : "f6614db29c6711fd",
+        "parentUid" : "000479d25ccdc865a1f36c4466a4f6a8",
+        "status" : "broken",
+        "time" : {
+          "start" : 1651911369524,
+          "stop" : 1651911390528,
+          "duration" : 21004
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "'蒙Z77P75\n'" ]
+      } ],
+      "uid" : "000479d25ccdc865a1f36c4466a4f6a8"
+    }, {
+      "name" : "requests.exceptions.ConnectionError: HTTPSConnectionPool(host='fapi.appykt.com', port=443): Max retries exceeded with url: /parking-monitor/monitor/operatorcario (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002A8D180DB70>: Failed to establish a new connection: [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。'))",
+      "children" : [ {
+        "name" : "入场接口用例",
+        "uid" : "baac237679180eb9",
+        "parentUid" : "b479ad8e755be5957d60099b2b600efe",
+        "status" : "broken",
+        "time" : {
+          "start" : 1651911421481,
+          "stop" : 1651911442486,
+          "duration" : 21005
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "'黑WDCEQV\n'" ]
+      } ],
+      "uid" : "b479ad8e755be5957d60099b2b600efe"
+    }, {
+      "name" : "requests.exceptions.ConnectionError: HTTPSConnectionPool(host='fapi.appykt.com', port=443): Max retries exceeded with url: /parking-monitor/monitor/operatorcario (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002A8D05E14E0>: Failed to establish a new connection: [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。'))",
+      "children" : [ {
+        "name" : "入场接口用例",
+        "uid" : "e573dcc76ad50954",
+        "parentUid" : "b7d145f842db3c90ca44393c35a7c55e",
+        "status" : "broken",
+        "time" : {
+          "start" : 1651911457484,
+          "stop" : 1651911478490,
+          "duration" : 21006
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "'甘KE3C7S8\n'" ]
+      } ],
+      "uid" : "b7d145f842db3c90ca44393c35a7c55e"
+    }, {
+      "name" : "requests.exceptions.ConnectionError: HTTPSConnectionPool(host='fapi.appykt.com', port=443): Max retries exceeded with url: /parking-monitor/monitor/operatorcario (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002A8D0588710>: Failed to establish a new connection: [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。'))",
+      "children" : [ {
+        "name" : "入场接口用例",
+        "uid" : "74a1add777274eed",
+        "parentUid" : "cf6e1a74b4ce2cea090c8242a289802c",
+        "status" : "broken",
+        "time" : {
+          "start" : 1651911625590,
+          "stop" : 1651911646596,
+          "duration" : 21006
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "'京RS2JU1\n'" ]
+      } ],
+      "uid" : "cf6e1a74b4ce2cea090c8242a289802c"
+    }, {
+      "name" : "requests.exceptions.ConnectionError: HTTPSConnectionPool(host='fapi.appykt.com', port=443): Max retries exceeded with url: /parking-monitor/monitor/operatorcario (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002A8D00F1828>: Failed to establish a new connection: [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。'))",
+      "children" : [ {
+        "name" : "入场接口用例",
+        "uid" : "8e817387ee21a974",
+        "parentUid" : "d5eda582aedb304ed2b15103f7702014",
+        "status" : "broken",
+        "time" : {
+          "start" : 1651911831567,
+          "stop" : 1651911852575,
+          "duration" : 21008
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "'蒙AU4DK4\n'" ]
+      } ],
+      "uid" : "d5eda582aedb304ed2b15103f7702014"
+    }, {
+      "name" : "requests.exceptions.ConnectionError: HTTPSConnectionPool(host='fapi.appykt.com', port=443): Max retries exceeded with url: /parking-monitor/monitor/operatorcario (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002A8D171AC88>: Failed to establish a new connection: [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。'))",
+      "children" : [ {
+        "name" : "入场接口用例",
+        "uid" : "1dda4d7a6c36c885",
+        "parentUid" : "233c8e143b7749c3ebc5d047bfafd58d",
+        "status" : "broken",
+        "time" : {
+          "start" : 1651911942449,
+          "stop" : 1651911963455,
+          "duration" : 21006
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "'川ECWFHR\n'" ]
+      } ],
+      "uid" : "233c8e143b7749c3ebc5d047bfafd58d"
+    }, {
+      "name" : "requests.exceptions.ConnectionError: HTTPSConnectionPool(host='fapi.appykt.com', port=443): Max retries exceeded with url: /parking-monitor/monitor/operatorcario (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002A8D1993AC8>: Failed to establish a new connection: [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。'))",
+      "children" : [ {
+        "name" : "入场接口用例",
+        "uid" : "3ffe3484d47913f3",
+        "parentUid" : "c856d1af68b276aab8e40b2416db1407",
+        "status" : "broken",
+        "time" : {
+          "start" : 1651911972585,
+          "stop" : 1651911993590,
+          "duration" : 21005
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "'新FKYQYK\n'" ]
+      } ],
+      "uid" : "c856d1af68b276aab8e40b2416db1407"
+    }, {
+      "name" : "requests.exceptions.ConnectionError: HTTPSConnectionPool(host='fapi.appykt.com', port=443): Max retries exceeded with url: /parking-monitor/monitor/operatorcario (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002A8D05BC4A8>: Failed to establish a new connection: [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。'))",
+      "children" : [ {
+        "name" : "入场接口用例",
+        "uid" : "5db065a589f36085",
+        "parentUid" : "991f2d525ba1cee6e35255f3b4461a23",
+        "status" : "broken",
+        "time" : {
+          "start" : 1651912150593,
+          "stop" : 1651912171599,
+          "duration" : 21006
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "'蒙Q8FMVP\n'" ]
+      } ],
+      "uid" : "991f2d525ba1cee6e35255f3b4461a23"
+    }, {
+      "name" : "requests.exceptions.ConnectionError: HTTPSConnectionPool(host='fapi.appykt.com', port=443): Max retries exceeded with url: /parking-monitor/monitor/operatorcario (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002A8D17144A8>: Failed to establish a new connection: [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。'))",
+      "children" : [ {
+        "name" : "入场接口用例",
+        "uid" : "bdc6be8e968bb081",
+        "parentUid" : "f79623b57e59d07ca297166c28db13df",
+        "status" : "broken",
+        "time" : {
+          "start" : 1651912185563,
+          "stop" : 1651912206592,
+          "duration" : 21029
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "'贵GY1L4QB\n'" ]
+      } ],
+      "uid" : "f79623b57e59d07ca297166c28db13df"
+    }, {
+      "name" : "requests.exceptions.ConnectionError: HTTPSConnectionPool(host='fapi.appykt.com', port=443): Max retries exceeded with url: /parking-monitor/monitor/operatorcario (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002A8D1A9DCF8>: Failed to establish a new connection: [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。'))",
+      "children" : [ {
+        "name" : "入场接口用例",
+        "uid" : "7824fc61b8c4450f",
+        "parentUid" : "40260ec7e9115fd0240215562d3b53f8",
+        "status" : "broken",
+        "time" : {
+          "start" : 1651912214459,
+          "stop" : 1651912235465,
+          "duration" : 21006
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "'青A6WUNTN\n'" ]
+      } ],
+      "uid" : "40260ec7e9115fd0240215562d3b53f8"
+    }, {
+      "name" : "requests.exceptions.ConnectionError: HTTPSConnectionPool(host='fapi.appykt.com', port=443): Max retries exceeded with url: /parking-monitor/monitor/operatorcario (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002A8D00B05F8>: Failed to establish a new connection: [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。'))",
+      "children" : [ {
+        "name" : "入场接口用例",
+        "uid" : "3615c3dd1170afa5",
+        "parentUid" : "9e2d471ab7ae53af9b70dbbd9bdb6d6a",
+        "status" : "broken",
+        "time" : {
+          "start" : 1651912235539,
+          "stop" : 1651912256547,
+          "duration" : 21008
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "'鲁V8620A\n'" ]
+      } ],
+      "uid" : "9e2d471ab7ae53af9b70dbbd9bdb6d6a"
+    }, {
+      "name" : "requests.exceptions.ConnectionError: HTTPSConnectionPool(host='fapi.appykt.com', port=443): Max retries exceeded with url: /parking-monitor/monitor/operatorcario (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002A8D1BA37F0>: Failed to establish a new connection: [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。'))",
+      "children" : [ {
+        "name" : "入场接口用例",
+        "uid" : "51f79c185c499d4",
+        "parentUid" : "f0d2826af11055785698dda3f74174d4",
+        "status" : "broken",
+        "time" : {
+          "start" : 1651912256621,
+          "stop" : 1651912277626,
+          "duration" : 21005
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "'豫NAL6V1\n'" ]
+      } ],
+      "uid" : "f0d2826af11055785698dda3f74174d4"
+    }, {
+      "name" : "requests.exceptions.ConnectionError: HTTPSConnectionPool(host='fapi.appykt.com', port=443): Max retries exceeded with url: /parking-monitor/monitor/operatorcario (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002A8D1BC8908>: Failed to establish a new connection: [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。'))",
+      "children" : [ {
+        "name" : "入场接口用例",
+        "uid" : "9d9f269fd983b86",
+        "parentUid" : "9a6bd1cfe58686a4a3129d6a12bf17b5",
+        "status" : "broken",
+        "time" : {
+          "start" : 1651912286623,
+          "stop" : 1651912307627,
+          "duration" : 21004
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "'晋LSMQR7B\n'" ]
+      } ],
+      "uid" : "9a6bd1cfe58686a4a3129d6a12bf17b5"
+    }, {
+      "name" : "requests.exceptions.ConnectionError: HTTPSConnectionPool(host='fapi.appykt.com', port=443): Max retries exceeded with url: /parking-monitor/monitor/operatorcario (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002A8D1B832B0>: Failed to establish a new connection: [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。'))",
+      "children" : [ {
+        "name" : "入场接口用例",
+        "uid" : "6247263812cad4c",
+        "parentUid" : "570dab15fd70762123e7773326dfd59d",
+        "status" : "broken",
+        "time" : {
+          "start" : 1651912315459,
+          "stop" : 1651912336465,
+          "duration" : 21006
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "'鲁D1WHGSM\n'" ]
+      } ],
+      "uid" : "570dab15fd70762123e7773326dfd59d"
+    }, {
+      "name" : "requests.exceptions.ConnectionError: HTTPSConnectionPool(host='fapi.appykt.com', port=443): Max retries exceeded with url: /parking-monitor/monitor/operatorcario (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002A8D1C06B00>: Failed to establish a new connection: [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。'))",
+      "children" : [ {
+        "name" : "入场接口用例",
+        "uid" : "5fc78bf4a94c5674",
+        "parentUid" : "f3eecfbc4889d23cb8b4939bc6453c6d",
+        "status" : "broken",
+        "time" : {
+          "start" : 1651912336542,
+          "stop" : 1651912357549,
+          "duration" : 21007
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "'贵G5RGV8\n'" ]
+      } ],
+      "uid" : "f3eecfbc4889d23cb8b4939bc6453c6d"
+    }, {
+      "name" : "requests.exceptions.ConnectionError: HTTPSConnectionPool(host='fapi.appykt.com', port=443): Max retries exceeded with url: /parking-monitor/monitor/operatorcario (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002A8D1B7D860>: Failed to establish a new connection: [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。'))",
+      "children" : [ {
+        "name" : "入场接口用例",
+        "uid" : "5ca9306739e6f051",
+        "parentUid" : "3046f0dda0b6e149d7dc40a13c94ff1f",
+        "status" : "broken",
+        "time" : {
+          "start" : 1651912357621,
+          "stop" : 1651912378630,
+          "duration" : 21009
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "'琼KR40187\n'" ]
+      } ],
+      "uid" : "3046f0dda0b6e149d7dc40a13c94ff1f"
+    }, {
+      "name" : "requests.exceptions.ConnectionError: HTTPSConnectionPool(host='fapi.appykt.com', port=443): Max retries exceeded with url: /parking-monitor/monitor/operatorcario (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002A8D1C3CD30>: Failed to establish a new connection: [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。'))",
+      "children" : [ {
+        "name" : "入场接口用例",
+        "uid" : "158ad5b8972b4a76",
+        "parentUid" : "947a8ee9bdcb733a3def89282dd83ba3",
+        "status" : "broken",
+        "time" : {
+          "start" : 1651912385535,
+          "stop" : 1651912406542,
+          "duration" : 21007
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "'津XT1V2S\n'" ]
+      } ],
+      "uid" : "947a8ee9bdcb733a3def89282dd83ba3"
+    }, {
+      "name" : "requests.exceptions.ConnectionError: HTTPSConnectionPool(host='fapi.appykt.com', port=443): Max retries exceeded with url: /parking-monitor/monitor/operatorcario (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002A8D1B1DD68>: Failed to establish a new connection: [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。'))",
+      "children" : [ {
+        "name" : "入场接口用例",
+        "uid" : "c7557aace8952d34",
+        "parentUid" : "1577152f58a14fa010cb9216689cf6ae",
+        "status" : "broken",
+        "time" : {
+          "start" : 1651912447625,
+          "stop" : 1651912468632,
+          "duration" : 21007
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "'赣HZMXER1\n'" ]
+      } ],
+      "uid" : "1577152f58a14fa010cb9216689cf6ae"
+    }, {
+      "name" : "requests.exceptions.ConnectionError: HTTPSConnectionPool(host='fapi.appykt.com', port=443): Max retries exceeded with url: /parking-monitor/monitor/operatorcario (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002A8D1C3C278>: Failed to establish a new connection: [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。'))",
+      "children" : [ {
+        "name" : "入场接口用例",
+        "uid" : "b6db35d469d298a2",
+        "parentUid" : "17a3374d73cd67f741516ab2f3ae864e",
+        "status" : "broken",
+        "time" : {
+          "start" : 1651912532570,
+          "stop" : 1651912553575,
+          "duration" : 21005
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "'闽Z43D1E\n'" ]
+      } ],
+      "uid" : "17a3374d73cd67f741516ab2f3ae864e"
+    }, {
+      "name" : "requests.exceptions.ConnectionError: HTTPSConnectionPool(host='fapi.appykt.com', port=443): Max retries exceeded with url: /parking-monitor/monitor/operatorcario (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002A8D1CD6A58>: Failed to establish a new connection: [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。'))",
+      "children" : [ {
+        "name" : "入场接口用例",
+        "uid" : "71e0677a414b19b4",
+        "parentUid" : "27a5afee8f6e5f271666abbbf4c6f673",
+        "status" : "broken",
+        "time" : {
+          "start" : 1651912553651,
+          "stop" : 1651912574657,
+          "duration" : 21006
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "'川UQK5CK\n'" ]
+      } ],
+      "uid" : "27a5afee8f6e5f271666abbbf4c6f673"
+    }, {
+      "name" : "requests.exceptions.ConnectionError: HTTPSConnectionPool(host='fapi.appykt.com', port=443): Max retries exceeded with url: /parking-monitor/monitor/operatorcario (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002A8D00DA710>: Failed to establish a new connection: [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。'))",
+      "children" : [ {
+        "name" : "入场接口用例",
+        "uid" : "e761762607025b26",
+        "parentUid" : "4dbe770dd023cce719d21033c1b1ae30",
+        "status" : "broken",
+        "time" : {
+          "start" : 1651912585604,
+          "stop" : 1651912606609,
+          "duration" : 21005
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "'鄂KSCRB6Y\n'" ]
+      } ],
+      "uid" : "4dbe770dd023cce719d21033c1b1ae30"
+    }, {
+      "name" : "requests.exceptions.ConnectionError: HTTPSConnectionPool(host='fapi.appykt.com', port=443): Max retries exceeded with url: /parking-monitor/monitor/operatorcario (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002A8D194A080>: Failed to establish a new connection: [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。'))",
+      "children" : [ {
+        "name" : "入场接口用例",
+        "uid" : "423346d9ef647c27",
+        "parentUid" : "f0ff76a2182bf0cd8cafed78895149fd",
+        "status" : "broken",
+        "time" : {
+          "start" : 1651912621334,
+          "stop" : 1651912642340,
+          "duration" : 21006
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "'苏THWBV8M\n'" ]
+      } ],
+      "uid" : "f0ff76a2182bf0cd8cafed78895149fd"
+    }, {
+      "name" : "requests.exceptions.ConnectionError: HTTPSConnectionPool(host='fapi.appykt.com', port=443): Max retries exceeded with url: /parking-monitor/monitor/operatorcario (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002A8D05F8EB8>: Failed to establish a new connection: [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。'))",
+      "children" : [ {
+        "name" : "入场接口用例",
+        "uid" : "60bafef54c569dd8",
+        "parentUid" : "5ae786c10788a6f21177393f3f4aef8e",
+        "status" : "broken",
+        "time" : {
+          "start" : 1651912741478,
+          "stop" : 1651912762483,
+          "duration" : 21005
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "'苏L77Y0D3\n'" ]
+      } ],
+      "uid" : "5ae786c10788a6f21177393f3f4aef8e"
+    }, {
+      "name" : "requests.exceptions.ConnectionError: HTTPSConnectionPool(host='fapi.appykt.com', port=443): Max retries exceeded with url: /parking-monitor/monitor/operatorcario (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002A8D1B42AC8>: Failed to establish a new connection: [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。'))",
+      "children" : [ {
+        "name" : "入场接口用例",
+        "uid" : "755d81d46a1f0000",
+        "parentUid" : "546ec138bef117a8288a11ab142935cc",
+        "status" : "broken",
+        "time" : {
+          "start" : 1651912843645,
+          "stop" : 1651912864651,
+          "duration" : 21006
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "'沪YP8C2F1\n'" ]
+      } ],
+      "uid" : "546ec138bef117a8288a11ab142935cc"
+    }, {
+      "name" : "requests.exceptions.ConnectionError: HTTPSConnectionPool(host='fapi.appykt.com', port=443): Max retries exceeded with url: /parking-monitor/monitor/operatorcario (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002A8D17AECC0>: Failed to establish a new connection: [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。'))",
+      "children" : [ {
+        "name" : "入场接口用例",
+        "uid" : "385cda73df28df64",
+        "parentUid" : "ea049a9048a64a072366ac1d4b32011d",
+        "status" : "broken",
+        "time" : {
+          "start" : 1651913037572,
+          "stop" : 1651913058579,
+          "duration" : 21007
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "'辽G4XNG7M\n'" ]
+      } ],
+      "uid" : "ea049a9048a64a072366ac1d4b32011d"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  } ]
+}

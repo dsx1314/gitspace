@@ -1,0 +1,6 @@
+-
+  login: //*[@id="my-master-app"]/div/div[1]/div/form/div[1]/div/div/input
+  login2: 83083541
+  login3: //*[@id="my-master-app"]/div/div[1]/div/form/div[2]/div/div/input
+  login4: 13202029682
+  login5: //*[@id="my-master-app"]/div/div[1]/div/div[3]/button

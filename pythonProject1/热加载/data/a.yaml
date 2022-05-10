@@ -1,0 +1,4 @@
+-
+  name: demo
+  hobby: !include ./b.yaml
+  skill: !include ./c.yaml
